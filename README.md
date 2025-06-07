@@ -1,2 +1,4 @@
 # shubhamproject
-my first repository project
+This is My First Gitrepository
+<br>
+Author - Shubham
